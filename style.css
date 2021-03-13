@@ -190,7 +190,7 @@ i {
 }
 
 .winner {
-  background-color: #f7f7f7;
+  background: rgba(255, 255, 255, 0.1);
 }
 .winner .player-name {
   font-weight: 300;
